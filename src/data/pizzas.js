@@ -1,5 +1,5 @@
 // Array com os 7 sabores de pizza
-// Cada pizza tem: nome, frase, imagem (require) e emoji de fallback
+// Cada pizza tem: nome, frase e imagem (require)
 export const PIZZAS = [
   {
     nome: 'Calabresa',
